@@ -22,9 +22,19 @@ npm start
 
 ## Procedure for viewing in multiple device
 
-- Make sure your devices are connected to a particular network
+- You can only run the app if only the server is running in your localhost ie in your PC
+- Make sure your devices are connected to a same network ie the network your Pc is connected to.
 - Then open up your browser and type _http://192.168.43.80:3000_
 
+---
+## Closing the app
+- In pc open your terminal where the app was previously running
+```
+press ctrl+c
+```
+if asked press Y and enter
+
+- For mobile simple close the tab
 ---
 ___Note___ : This app is underdevelopment.
 
