@@ -5,6 +5,7 @@ function Footer(){
 
   return(
     <footer>
+    // eslint-disable-next-line
     <h4>Made by <a href="https://www.instagram.com/developer_dev/?hl=en" rel='noreferrer' target="_blank" >Chandrasekhar </a></h4>
     <p>Copyright &#169; {year}</p>
     </footer>
