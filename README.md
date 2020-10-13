@@ -1,6 +1,6 @@
 # react-to-do-app
 
-Its an replica of _The google keep_  without the Database functionality (will be added soon.
+Its an replica of _The google keep_  without the Database functionality (will be added soon).
 
 ## SETUP
 
@@ -20,7 +20,7 @@ npm start
 ---
 
 
-## procedure for viewing in multiple device
+## Procedure for viewing in multiple device
 
 - Make sure your devices are connected to a particular network
 - Then open up your browser and type _http://192.168.43.80:3000_
@@ -28,8 +28,8 @@ npm start
 ---
 ___Note___ : This app is underdevelopment.
 
-- Not responsive
-- Not proper Ui styling
-- Not suitable for deployment
+- [x] Not responsive
+- [x] No proper Ui styling
+- [x] Not suitable for deployment
 
-## Version will be Updated soon 
+## Next Version will be rolling soon
